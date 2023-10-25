@@ -1,0 +1,24 @@
+.menu{
+    list-style: none;
+    padding-top: 0;
+    background-color: #263238;
+    width: 100;
+    max-width: 2500px;
+    margin: auto;
+}
+
+.menu li a{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    display: block;
+}
+
+.menu li{
+    display: inline-block;
+    text-align: center;
+}
+
+.menu li a:hover{
+    background: #FF5722;
+}
